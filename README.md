@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
 
-**PRESENTATION** [link](https://slides.com/renztullao/angular-4-4/live)
+**PRESENTATION** [Link](https://slides.com/renztullao/angular-4-4/live)
 
 ## Development server
 
