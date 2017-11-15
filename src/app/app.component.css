@@ -16,6 +16,7 @@
     font-size: 15px;
     cursor: pointer;
     transition: background 0.5s;
+    outline: 0;
 }
 
 .buttons button:hover {

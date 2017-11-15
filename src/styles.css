@@ -34,3 +34,7 @@
 .centers {
 	text-align: center;
 }
+
+button, a {
+	outline: 0;
+}
