@@ -4,9 +4,9 @@
   <div class="col-4">AUTHOR</div>
   <div class="col-2">&nbsp;</div>
 </div>
-<div *ngFor="let data of theFakeList; let i = index;" class="output">
-  <div class="col-2" >{{ i + 1 }}</div>
+<div *ngFor="let data of theFakeList;" class="output">
+  <div class="col-2" >{{ data.id }}</div>
   <div class="col-4">{{ data.title }}</div>
   <div class="col-4">{{ data.author }}</div>
-  <div routerLink="/outlist-details" class="col-2"><i class="fa fa-angle-right"></i></div>
+  <div routerLink="/outlist-details" class="col-2 arrow"><i class="fa fa-angle-right"></i></div>
 </div>

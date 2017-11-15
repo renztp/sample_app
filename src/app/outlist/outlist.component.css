@@ -16,3 +16,7 @@
 .output div:nth-child(1){
     background:#d3cfcf;
 }
+
+.arrow {
+    cursor: pointer;
+}

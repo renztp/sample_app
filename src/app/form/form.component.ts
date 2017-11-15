@@ -28,8 +28,8 @@ export function adds(theId, theTitle, theAuthor) {
 
 export let fakeList = [
     {id: 1, title: 'Harry Potter', author: 'Jk Rowling'},
-    {id: 1, title: 'Harry Potter', author: 'Jk Rowling'},
-    {id: 1, title: 'Harry Potter', author: 'Jk Rowling'},
-    {id: 1, title: 'Harry Potter', author: 'Jk Rowling'},
-    {id: 1, title: 'Harry Potter', author: 'Jk Rowling'},
+    {id: 2, title: 'Harry Potter', author: 'Jk Rowling'},
+    {id: 3, title: 'Harry Potter', author: 'Jk Rowling'},
+    {id: 4, title: 'Harry Potter', author: 'Jk Rowling'},
+    {id: 5, title: 'Harry Potter', author: 'Jk Rowling'},
 ];

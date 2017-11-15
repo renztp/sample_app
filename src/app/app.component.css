@@ -14,4 +14,10 @@
     background: #555;
     border: 0px;
     font-size: 15px;
+    cursor: pointer;
+    transition: background 0.5s;
+}
+
+.buttons button:hover {
+    background: #666;
 }
