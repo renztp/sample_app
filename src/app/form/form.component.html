@@ -1,0 +1,21 @@
+
+<br>
+<div style="width: 90%; margin: 0 auto;">
+<div class="col-12 forms">
+<label for="title">Title:
+  <input [(ngModel)]="theFakeList.title" id="title" placeholder="Insert Title.." type="text" #title>
+</label>
+</div>
+<div class="col-12 forms">
+<label for="Author">Author:
+  <input id="author" placeholder="Insert Author.." type="text" #author>
+</label>
+</div>
+<div class="col-12 forms">
+<label for="title">Owner:
+  <input id="owner" placeholder="Insert Owner.." type="text" #owner>
+</label>
+<div class="col-12">
+  <button routerLink="/outlist" class="save_btn" style="float: right;">Save</button>
+</div>
+</div>

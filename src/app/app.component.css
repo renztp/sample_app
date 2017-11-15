@@ -1,0 +1,17 @@
+.titles {
+    background: #333;
+    color: #999;
+}
+
+.menus {
+    background: #444;
+    color: #777;
+}
+
+.buttons button {
+    padding: 8px 16px;
+    border-radius: 3px;
+    background: #555;
+    border: 0px;
+    font-size: 15px;
+}
